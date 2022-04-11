@@ -1,0 +1,62 @@
+
+.principal{
+    background : #eeeef0cb;
+    padding-top: 20px;
+    margin-top: 5px;
+    padding-bottom: -20px;
+    margin-inline:-5px;
+}
+
+.itens{
+    font-style: italic;
+    text-align: center;
+    
+}
+
+.bolinea{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#cor{
+    color: #0e0d0d;
+}
+
+#missao{
+    font-size: 20px;
+}
+
+#banner{
+    width: 30%;
+}
+
+#sorvete{
+    width: 30%
+}
+
+#cardapio{
+    width: 30%
+}
+
+#espaco{
+    width: 30%
+}
+
+color{
+    color: #ece4e4;
+} 
+.centraliza{
+    text-align: center;
+}
+
+.box{
+    position: relative;
+    font-size: 20px;
+    margin: 0 auto;
+}
